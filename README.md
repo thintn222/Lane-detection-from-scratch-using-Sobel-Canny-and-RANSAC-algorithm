@@ -8,4 +8,4 @@ This repo consisted of :
 + Python file for the CANNY + RANSAC algorithm
 + PDF file explain my solution
 
-<img Result="./result.PNG">
+https://github.com/thintn222/Lane-detection-from-scratch-using-Sobel-Canny-and-RANSAC-algorithm/blob/master/Result/result.PNG
